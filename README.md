@@ -1,4 +1,4 @@
-# A Alfred2 workflow to search in EuDic(欧路词典)
+# A Alfred2 workflow to search in EuDic free(欧路词典 免费版)
 You can get EuDic for Mac here:
 http://www.eudic.net/eudic/mac_dictionary.aspx
 
@@ -7,3 +7,4 @@ http://www.eudic.net/eudic/mac_dictionary.aspx
 2. Download SearchInEuDic.alfredworkflow and double click to install.
 3. Type "dict"+space in Alfred window then input the word you want to search. Press [Enter] to open EuDic to show the result.
 4. Support both English and Chinese search. 
+
