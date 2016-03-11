@@ -8,3 +8,4 @@ http://www.eudic.net/eudic/mac_dictionary.aspx
 3. Type "dict"+space in Alfred window then input the word you want to search. Press [Enter] to open EuDic to show the result.
 4. Support both English and Chinese search. 
 
+#I made some change in order to support EuDic free verion.
